@@ -2,8 +2,14 @@
 
 
 
-# 💫 About Me:
-🔭 I’m currently working on Final projects for my academic course in software engineering<br><br>👯 I’m open to interesting ideas and projects — especially those that challenge me and teach something new<br><br>🌱 I’m currently learning Kubernetes, Docker, and building React applications<br><br>💬 Ask me about Python automation, working with Git, and SQL databases<br><br>⚡ Fun fact My database holds all my hopes. It’s currently locked in read-only mode, and I read the error logs like prayers.
+# 💫 About Me
+
+🚧 I’m currently working on final projects for my academic course in software engineering  
+🧩 I’m open to interesting ideas and projects — especially those that challenge me and teach something new  
+🧪 I’m currently learning Kubernetes, Docker, and building React applications  
+🛠️ Ask me about Python automation, working with Git, and SQL databases  
+🕯️ **Fun fact:** My database holds all my hopes. It’s currently locked in read-only mode, and I read the error logs like prayers.
+
 
 
 ## 🌐 Socials:
