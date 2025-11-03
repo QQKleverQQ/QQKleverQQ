@@ -18,7 +18,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=QQKleverQQ&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=It%27s%20not%20a%20bug%20%E2%80%94%20it%27s%20an%20undocumented%20feature.&author=Anonymous%20Developer)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=QQKleverQQ&limit=5&theme=dark&combine_all_yearly_contributions=true)
