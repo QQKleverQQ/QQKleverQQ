@@ -2,7 +2,7 @@
 
 
 
-# 💫 About Me
+# 🌟 About Me
 
 🚧 I’m currently working on final projects for my academic course in software engineering  
 🧩 I’m open to interesting ideas and projects — especially those that challenge me and teach something new  
